@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> This project is no longer being maintained. Feel free to fork and use it as you wish.
+> Dev is AFK.
+
 # DomainTrack
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
